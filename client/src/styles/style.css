@@ -1,9 +1,9 @@
 #home {
-   background-image: url("./images/header-bg.jpg"); 
+  background-image: url("../images/header-bg.jpg");
 }
 
 .header-hero bg_cover {
-  background-image: url("./images/header-bg.jpg");
+  background-image: url("../images/header-bg.jpg");
 }
 
 body {

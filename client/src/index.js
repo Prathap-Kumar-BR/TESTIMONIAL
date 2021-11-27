@@ -1,12 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import "./bootstrap.min.css";
-import "./LineIcons.css";
-import "./slick.css";
-import "./style.css";
-import "./default.css";
-import "./magnific-popup.css";
+import "./styles/index.css";
+import "./styles/bootstrap.min.css";
+import "./styles/LineIcons.css";
+import "./styles/slick.css";
+import "./styles/style.css";
+import "./styles/default.css";
+import "./styles/magnific-popup.css";
 
 import App from "./App";
 

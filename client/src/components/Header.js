@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import logo from "../images/logo.svg";
 import headerbg from "../images/header-shape.svg";
-import "../style.css";
+import "../styles/style.css";
 
 const Header = () => {
   const [navColour, updateNavbar] = useState(false);

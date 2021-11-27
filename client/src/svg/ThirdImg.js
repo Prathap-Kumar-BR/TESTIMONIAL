@@ -1,6 +1,6 @@
 import React from "react";
 
-const PricingImg = (props) => {
+const ThirdImg = (props) => {
   return (
     <div>
       <svg
@@ -57,4 +57,4 @@ const PricingImg = (props) => {
   );
 };
 
-export default PricingImg;
+export default ThirdImg;
