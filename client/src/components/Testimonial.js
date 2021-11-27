@@ -30,7 +30,7 @@ const Testimonial = () => {
             </div>
           </div>
           <Carousel
-            autoplay={300}
+            autoplay="300"
             showDots
             hideArrow
             cols={3}
